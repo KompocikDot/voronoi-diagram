@@ -10,4 +10,4 @@
 - If not - build an executable using `go build .` (golang required)
 
 
-#### Idea from: [Wikipedia](https://pl.wikipedia.org/wiki/Diagram_Woronoja)
+#### Idea from: [Wikipedia](https://en.wikipedia.org/wiki/Voronoi_diagram)
