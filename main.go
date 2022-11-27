@@ -13,14 +13,13 @@ import (
 type Point struct {
 	x int
 	y int
-	colour color.Gray16
 	surroundingColour color.RGBA
 }
 
 var (
 	pointsAmount = 10
-	height = 800
-	width = 800
+	height = 2400
+	width = 2400
 	minOffset = 10
 
 	RED = color.RGBA{255, 0, 0, 255}
