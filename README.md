@@ -2,7 +2,7 @@
 ## Made to train my capabilities of writing Go code.
 
 ## Example:
-![Voronoi diagram example](https://github.com/KompocikDot/voronoi-diagram/blob/main/voronoi.png)
+![Voronoi diagram example](https://github.com/KompocikDot/voronoi-diagram/blob/main/voronoi.png =200x200)
 
 ### Usage:
 - If you're using apple silicon processor just run `./voronoi`
