@@ -18,8 +18,8 @@ type Point struct {
 
 var (
 	pointsAmount = 10
-	height = 2400
-	width = 2400
+	height = 1920
+	width = 1080
 	minOffset = 10
 
 	RED = color.RGBA{255, 0, 0, 255}
